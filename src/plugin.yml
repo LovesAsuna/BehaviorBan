@@ -1,0 +1,9 @@
+name: POrder
+main: org.serverct.xiao_sgyg.Main
+version: 1.0
+Author: xiao_sgyg(Translated by icestar)
+commands:
+  PO: 
+    description: "Plugin Helper"
+    usage: /PO
+    aliases: [PO]

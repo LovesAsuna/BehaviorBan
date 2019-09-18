@@ -1,0 +1,58 @@
+Enchant:
+  Switch: false
+  EnchantList:
+    - 276
+    - 267
+Craft:
+  Switch: false
+  CraftList:
+    - 276
+    - 267
+Brew:
+  Switch: false
+Chat:
+  Switch: false
+  msg: "&c&lDon't speak dirty words!"
+  ChatList:
+    - shit
+Furnace:
+  Switch: false
+  FurnaceList:
+    - 1
+Anvil:
+  Switch: false
+Break:
+  Switch: false
+  msg: "&c&lYou can't break this block！"
+  BreakList:
+    - 1
+Place:
+  Switch: true
+  msg: "&c&lYou can't place ths block！"
+  PlaceList:
+    - 1
+Entity:
+  Switch: false
+  EntityList:
+    - 1
+Drop:
+  Switch: false
+  msg: "&c&lYou can't drop ths item！"
+  DropList:
+    - 1
+Fishing:
+  Switch: false
+  msg: "&c&lYou can't fish here！"
+Hold:
+  Switch: false
+  msg: "&c&lYou can't hold this item！"
+  HoldList:
+    - 9
+LightingStrike:
+  Switch: false
+Thunder:
+  Switch: false
+ChangeWeather:
+  Switch: false
+Debug:
+  Switch: false

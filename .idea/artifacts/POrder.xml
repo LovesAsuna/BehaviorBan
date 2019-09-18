@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="POrder">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="POrder.jar">
+      <element id="module-output" name="ProhibitionOrder" />
+    </root>
+  </artifact>
+</component>

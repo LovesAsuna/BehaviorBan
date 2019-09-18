@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/org/serverct/xiao_sgyg/GUI/GUI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/serverct/xiao_sgyg/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/serverct/xiao_sgyg/command/POrderCommand.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/serverct/xiao_sgyg/listener/Debug.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/serverct/xiao_sgyg/listener/InventoryClick.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/serverct/xiao_sgyg/listener/POrderBreak.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/serverct/xiao_sgyg/listener/POrderChat.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/serverct/xiao_sgyg/listener/POrderDrop.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/serverct/xiao_sgyg/listener/POrderHold.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/serverct/xiao_sgyg/listener/POrderPlace.java" charset="GBK" />
+  </component>
+</project>
