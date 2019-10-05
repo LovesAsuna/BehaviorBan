@@ -1,6 +1,6 @@
 name: POrder
 main: org.serverct.xiao_sgyg.Main
-version: 1.0
+version: 2.0
 Author: xiao_sgyg(Translated by icestar)
 commands:
   PO: 
