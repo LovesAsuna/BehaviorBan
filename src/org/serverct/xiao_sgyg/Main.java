@@ -75,7 +75,7 @@ public class Main extends JavaPlugin{
 		String newVersion = getNewestVersion();
 		getServer().getConsoleSender().sendMessage("¡ì7[POrder] Plugin Enable");
 		if (currentVersion.equalsIgnoreCase(newVersion)) {
-			getServer().getConsoleSender().sendMessage("¡ì7[POrder]¡ì2You are using the newest " + currentVersion + "version");
+			getServer().getConsoleSender().sendMessage("¡ì7[POrder]¡ì2You are using the newest " + currentVersion + " version");
 		} else {
 			getServer().getConsoleSender().sendMessage("¡ì7[POrder]¡ìcThe newest version is " + newVersion);
 			getServer().getConsoleSender().sendMessage("¡ì7[POrder]¡ìcPlease download on https://www.spigotmc.org/resources/porder.71367/");
